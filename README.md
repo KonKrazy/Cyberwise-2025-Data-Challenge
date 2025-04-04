@@ -40,7 +40,7 @@ In the experimental phase, the focus was on evaluating the models' prediction ac
   *Objective:* Identify the most important features for classifying attack types, using feature importance plots to determine which variables, such as power consumption or specific system-level events, are most predictive.
 
 ## **References**
-1. "ML Network Attack Detection." *GitHub*, 2023, [https://github.com/CrashedBboy/ML-NetworkAttack-Detection/blob/main/README.md](https://github.com/CrashedBboy/ML-NetworkAttack-Detection/).
+1. "ML Network Attack Detection." *GitHub*, 2023, [https://github.com/CrashedBboy/ML-NetworkAttack-Detection/](https://github.com/CrashedBboy/ML-NetworkAttack-Detection/).
 
 2. ChatGPT. "Personal Assistant and AI Model." *OpenAI*, 2025.
 
