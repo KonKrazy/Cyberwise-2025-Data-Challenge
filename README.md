@@ -44,4 +44,6 @@ In the experimental phase, the focus was on evaluating the models' prediction ac
 
 2. ChatGPT. "Personal Assistant and AI Model." *OpenAI*, 2025.
 
-3. Wang, Haomin, et al. "DDosTC: A Transformer-Based Network Attack Detection Hybrid Mechanism in SDN." *ResearchSquare*, 2024, https://assets-eu.researchsquare.com/files/rs-4046330/v1_covered_373111ae-352a-4ce6-8092-552
+3. Wang, Haomin, et al. "DDosTC: A Transformer-Based Network Attack Detection Hybrid Mechanism in SDN." *ResearchSquare*, 2024, [https://assets-eu.researchsquare.com/files/rs-4046330/v1_covered_373111ae-352a-4ce6-8092-552]
+
+4. "CIC EV Charger Attack Dataset 2024." *Canadian Institute for Cybersecurity*, [https://www.unb.ca/cic/datasets/evse-dataset-2024.html](https://www.unb.ca/cic/datasets/evse-dataset-2024.html).
