@@ -49,4 +49,4 @@ The project will be executed in the following phases:
 
 2. ChatGPT. "Personal Assistant and AI Model." *OpenAI*, 2025.
 
-3. Wang, Haomin, et al. "DDosTC: A Transformer-Based Network Attack Detection Hybrid Mechanism in SDN." *ResearchSquare*, 2024, [https://assets-eu.researchsquare.com/files/rs-4046330/v1_covered_373111ae-352a-4ce6-8092-55218a3588d2.pdf?c=1710133419](https://assets-eu.researchsquare.com/files/rs-4046330/v1_covered_373111ae-352a
+3. Wang, Haomin, et al. "DDosTC: A Transformer-Based Network Attack Detection Hybrid Mechanism in SDN." *ResearchSquare*, 2024, https://assets-eu.researchsquare.com/files/rs-4046330/v1_covered_373111ae-352a-4ce6-8092-55218a3588d2.pdf?c=1710133419](https://assets-eu.researchsquare.com/files/rs-4046330/v1_covered_373111ae-352a
